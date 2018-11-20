@@ -8,7 +8,7 @@ The original JHipster logo was created by [Guillaume Gaulard](https://twitter.co
 
 This repositoy contains:
 
-- The JHipster [Graphical charter](Graphical charter JHipster), which explains how the JHipster artwork should be used.
+- The JHipster [Graphical charter](JHipster-graphical-charter.pdf), which explains how the JHipster artwork should be used.
 - The [logos](logos/) directory contains the current JHipster logos.
 - The [icons](icons/) directory contains the current JHipster icons.
 - The [family](family/) directory contains the JHipster "family members". As explained in the next section, our goal is to make this family grow, don't hesitate to contribute!
