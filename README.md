@@ -6,7 +6,7 @@ The original JHipster logo was created by [Guillaume Gaulard](https://twitter.co
 
 ## What's available in this repository?
 
-This repositoy contains:
+This repository contains:
 
 - The JHipster [Graphical charter](JHipster-graphical-charter.pdf), which explains how the JHipster artwork should be used.
 - The [logos](logos/) directory contains the current JHipster logos.
@@ -27,10 +27,10 @@ Here's some examples of the JHipster family members.
 
 ## Inclusiveness
 
-As all JHipster projects, the JHipster Artwork project follows the [JHipster code of conduct](https://github.com/jhipster/generator-jhipster/blob/master/CODE_OF_CONDUCT.md). One of our goals is to have inclusive artwork: at the moment the "JHipster family" has a few members, but the idea is that this family grows, with many different members, as expressed in our code of conduct. If you want to help the project, you can either participate as an artist (the source files from all images are available in this repository) or as a sponsor (so we can pay an artist to create those new images).
+As with all JHipster projects, the JHipster Artwork project follows the [JHipster code of conduct](https://github.com/jhipster/generator-jhipster/blob/master/CODE_OF_CONDUCT.md). One of our goals is to have inclusive artwork: at the moment the "JHipster family" has a few members, but the idea is that this family grows, with many different members, as expressed in our code of conduct. If you want to help the project, you can either participate as an artist (the source files from all images are available in this repository) or as a sponsor (so we can pay an artist to create those new images).
 
 All images are validated by [Audrey Neveu](https://twitter.com/Audrey_Neveu), who is well-known in the Java community for her involvement in [Devoxx4Kids](http://www.devoxx4kids.org/) and [Duchess France](https://www.duchess-france.org/).
 
 ## Logos and images usage
 
-All logos and images are available under the [Apache 2 license](LICENSE.txt), and belong the JHipster project.
+All logos and images are available under the [Apache 2 license](LICENSE.txt), and belong to the JHipster project.
