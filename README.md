@@ -16,7 +16,7 @@ This repository contains:
 
 ## The JHipster Family
 
-Here's some examples of the JHipster family members.
+Below are some examples of the JHipster family members.
 
 <div width="500" align="center">
   <img src="family/jhipster_family_member_0.svg" width="200">
