@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 263.86 96">
+    <defs>
+        <style>
+            .cls-1 {
+                isolation: isolate;
+            }
+
+            .cls-2,
+            .cls-3,
+            .cls-5 {
+                font-size: 60px;
+                font-family: Pacifico-Regular, Pacifico;
+                letter-spacing: 0em;
+            }
+
+            .cls-3 {
+                fill: #343333;
+            }
+
+            .cls-4 {
+                mix-blend-mode: color-dodge;
+            }
+
+            .cls-5 {
+                fill: none;
+                stroke: #d9e7f4;
+                stroke-width: 2px;
+            }
+        </style>
+    </defs>
+    <g class="cls-1">
+        <g id="Logo_JHipster" data-name="Logo JHipster">
+            <g id="Jhipster-Title"><text class="cls-2" transform="translate(-8.07 64.36)">JHipster</text><text
+                    class="cls-3" transform="translate(-8.07 64.36)">JHipster</text>
+                <g class="cls-4"><text class="cls-5" transform="translate(-8.07 64.36)">JHipster</text></g><text
+                    class="cls-3" transform="translate(-8.07 64.36)">JHipster</text>
+            </g>
+        </g>
+    </g>
+</svg>
