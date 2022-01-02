@@ -1,0 +1,20 @@
+<svg id="Logo_JHipster" data-name="Logo JHipster" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 136 64">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #3474ab;
+            }
+
+            .cls-2 {
+                fill: #4289c7;
+            }
+        </style>
+    </defs>
+    <g id="Logo">
+        <path id="original-bowtie-left" class="cls-1"
+            d="M78.11,28.05s-59.55-34.34-64.69-13-10.93,37.6,4.92,40.6S78.11,28.05,78.11,28.05" />
+        <path id="original-bowtie-right" class="cls-2"
+            d="M67.82,22.89C84.91,14.11,118.65-.93,122.51,15c5.2,21.43,11,37.73-4.8,40.8-11.11,2.15-36.11-12.34-50-21.14,0-10.41.1-1.5.09-11.76" />
+    </g>
+</svg>
